@@ -1,0 +1,437 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micromania</title>
+    <link rel="shortcut icon"
+        href="https://www.micromania.fr/on/demandware.static/Sites-Micromania-Site/-/default/dw24596e3c/images/favicons/favicon-196x196.png"
+        type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="./css/style.css">
+
+
+</head>
+
+<body>
+    <div>
+        <header>
+            <nav></nav>
+            <h1>Micromania</h1>
+
+            <div id="wrap">
+                <ul class="navbar">
+                    <li>
+                        <a href="https://www.micromania.fr/">Accueil</a>
+                    </li>
+                    <li>
+                        <a href="https://www.micromania.fr/jeux-video.html">Jeux Vidéos</a>
+                        <ul>
+                            <li><a href="https://www.micromania.fr/univers-ps5.html">PS5</a></li>
+                            <li><a href="https://www.micromania.fr/licences-loots">Licences</a></li>
+                            <li><a href="https://www.micromania.fr/calendrier-des-prochaines-sorties.html">Sorties des
+                                    jeux</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="https://www.micromania.fr/produits-derives.html">Produits Dérivés</a>
+                        <ul>
+                            <li><a href="https://www.micromania.fr/licences-loots">Licences</a></li>
+                            <li><a href="https://www.micromania.fr/produits-derives-bons-plans.html">Offre du moment</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="https://www.micromania.fr/magasins?mode=viewAll">Magasin</a>
+
+                    </li>
+                    <li>
+                        <a href="https://www.micromania.fr/occasion.html">Occasions</a>
+                        <ul>
+                            <li><a href="https://www.micromania.fr/occasion-jeux.html">Jeux</a></li>
+                            <li><a href="https://www.micromania.fr/occasion-consoles.html">Consoles</a></li>
+                            <li><a href="https://www.micromania.fr/occasion-accessories.html">Accessoires</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <form
+                            action="video/God of War Ragnarök - Trailer du PlayStation Showcase - VF - 4K  PS5, PS4.mp4">
+                            <input type="search">
+                        </form>
+                    </li>
+
+                </ul>
+            </div>
+        </header>
+        <main>
+
+        </main>
+
+
+
+
+        <figure><img id="modif-img" src="img/Featured-img-micromania.png.webp" alt="">
+
+        </figure>
+    </div>
+
+
+    <h2>God of War Ragnarök</h2>
+    <br>
+    <img class="modif-img" src="img/godofwarragnarock.jpg" alt="">
+
+    <br>
+    <br>
+
+    <h2>Bande d'annonce GOD OF WAR</h2>
+    <video id="modif-video" autoplay muted="false" controls loop width="50%"
+        src="video/God of War Ragnarök - Trailer du PlayStation Showcase - VF - 4K  PS5, PS4.mp4"></video>
+    <div>
+        <p> <button> <a href="https://www.micromania.fr/god-of-war-ragnarok-124189.html"> ACHETEZ
+                    MAINTENANT</a></button>
+        </p>
+        <h4>Nombre d'exemplaire</h4>
+        <input type="number" name="Nombre d'exemplaire" max="10" min="0">
+
+        <br>
+        <h3>Embarquez pour un voyage épique et émouvant, alors que Kratos et Atreus luttent pour s'accrocher et lâcher
+            prise.</h3>
+
+        <p> Au cœur des royaumes nordiques déchirés par la fureur des Ases, ils ont tout fait pour empêcher la fin des
+            temps. Mais malgré leurs efforts, Fimbulvetr approche dangereusement.
+        </p>
+        <h3> Observez leur dynamique père-fils évoluer alors qu'ils luttent pour leur survie :</h3>
+        <p> Atreus assoiffé d'une
+            connaissance qui pourra l'aider à comprendre la prophétie de « Loki », et Kratos peinant à se défaire de son
+            passé et à devenir le père dont son fils a besoin.
+        </p>
+        <p> Voyez comment le destin leur imposera un choix : la sûreté des neuf royaumes ou la leur. Et pendant ce
+            temps, Asgard rassemble ses forces...
+        </p>
+        <h3> Ceux qui défient le destin:</h3>
+        <p> Atreus part en quête du savoir qui l'aidera à comprendre la prophétie de « Loki » et le rôle qu'il doit
+            jouer dans le Ragnarök. Kratos doit choisir entre rester paralysé par la peur de répéter ses erreurs ou se
+            libérer du passé pour devenir le père dont Atreus a besoin.
+        </p>
+        <h3> Des armes de guerre:</h3>
+        <p> La Hache Léviathan, les Lames du Chaos et le bouclier Gardien sont de retour aux côtés d'une multitude de
+            pouvoirs pour Kratos et Atreus. Kratos devra plus que jamais mettre ses compétences pour le combat à
+            l'épreuve pour protéger sa famille de tous les ennemis menaçants à travers les neuf royaumes.</p>
+
+        <br>
+        <h2>Caractéristiques du jeu</h2>
+        <p>Editeur: SONY Interactive Entertainment France SA</p>
+        <p>Date de Sortie: 9 Novembre 2022</p>
+        <p>Genre: Action</p>
+        <p>Âge minimum: Pegi 18</p>
+        <p>Descripteurs: Language grossier/Violence</p>
+        <p>Langues parlées: Allemand / Anglais / ar / eo / Français / el / Italien / ja / pl / pt / pt-br / Russe</p>
+        <p>EAN-RÉFÉRENCE: 0711719409397</p>
+
+
+
+    </div>
+
+
+    <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="https://www.micromania.fr/jeux-video.html">Jeux videos</a></li>
+                            <li><a href="https://www.micromania.fr/mangas-et-livres.html">Mangas</a></li>
+                            <li><a href="https://www.micromania.fr/occasion.html">Occasions</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>A propos</h3>
+                        <ul>
+                            <li><a href="https://www.micromania.fr/fidelite.html">MegaCarte</a></li>
+                            <li><a href="https://www.micromania.fr/emploi.html">Recrutement</a></li>
+                            <li><a href="https://www.micromania.fr/avis.html">Votre avis</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 item text">
+                        <h3>MICROMANIA</h3>
+                        <p>Micromania, un magazine de jeux vidéo espagnol ; Micromania-Zing (anciennement Micromania),
+                            un distributeur français de jeux vidéo ; Micromania Software (ou simplement Micromania), un
+                            développeur de jeux vidéo italien.</p>
+                    </div>
+                    <div class="col item social"><a href="https://www.facebook.com/MicromaniaFr/"><i
+                                class="fa fa-facebook"></i></a><a href="https://twitter.com/Micromania_Fr"><i
+                                class="fa fa-twitter"></i></a><a href="https://www.instagram.com/micromania_zing/"><i
+                                class="fa fa-instagram"></i></a></div>
+                </div>
+                <p class="copyright">Micromania © 1983</p>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
+
+
+
+<style>
+
+body {
+    background-color: rgb(10, 48, 86);
+}
+
+img {}
+
+.modif-img {
+    width: 50%;
+    height: auto;
+    padding-left: 25%;
+}
+
+#modif-img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+
+}
+
+h1 {
+    color: blue;
+    position: relative;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+p {
+    font-size: large;
+
+}
+
+h2 {
+    color: darkgreen;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+#modif-video {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding-left: 0%;
+    display: block;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    width: 50%;
+    height: 20%;
+}
+
+p {
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+footer {
+    background-color: rgb(1, 45, 4);
+    padding-block: 3%;
+}
+
+h3 {
+    color: lightseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4 {
+    color: lightgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5 {
+    color: dodgerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+#wrap {
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    z-index: 99;
+    position: relative;
+    background-color: #444444;
+}
+
+.navbar {
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+}
+
+.navbar li {
+    height: auto;
+    width: 135.8px;
+    float: left;
+    text-align: center;
+    list-style: none;
+    font: normal bold 13px/1em Arial, Verdana, Helvetica;
+    padding: 0;
+    margin: 0;
+    background-color: #444444;
+}
+
+.navbar a {
+    padding: 18px 0;
+    border-left: 1px solid #ccc9c9;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.navbar li:hover,
+a:hover {
+    background-color: #444444;
+}
+
+.navbar li ul {
+    display: none;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li:hover ul {
+    display: block;
+}
+
+.navbar li ul li {
+    background-color: #444444;
+}
+
+.navbar li ul li a {
+    border-left: 1px solid #444444;
+    border-right: 1px solid #444444;
+    border-top: 1px solid #c9d4d8;
+    border-bottom: 1px solid #444444;
+}
+
+.navbar li ul li a:hover {
+    background-color: #a3a1a1;
+}
+
+form {
+    padding-top: 10%;
+}
+
+
+
+.footer-dark {
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32;
+}
+
+.footer-dark h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-dark ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.footer-dark ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.footer-dark ul a:hover {
+    opacity: 0.8;
+}
+
+@media (max-width:767px) {
+    .footer-dark .item:not(.social) {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+}
+
+.footer-dark .item.text {
+    margin-bottom: 36px;
+}
+
+@media (max-width:767px) {
+    .footer-dark .item.text {
+        margin-bottom: 0;
+    }
+}
+
+.footer-dark .item.text p {
+    opacity: 0.6;
+    margin-bottom: 0;
+}
+
+.footer-dark .item.social {
+    text-align: center;
+}
+
+@media (max-width:991px) {
+    .footer-dark .item.social {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+.footer-dark .item.social>a {
+    font-size: 20px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4);
+    margin: 0 8px;
+    color: #fff;
+    opacity: 0.75;
+}
+
+.footer-dark .item.social>a:hover {
+    opacity: 0.9;
+}
+
+.footer-dark .copyright {
+    text-align: center;
+    padding-top: 24px;
+    opacity: 0.3;
+    font-size: 13px;
+    margin-bottom: 0;
+}
+
+</style>
